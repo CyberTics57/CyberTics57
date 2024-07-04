@@ -5,6 +5,7 @@
 - 📫 Cómo contactarme, al 59752485
 - 😄 Pronombres CyberTics
 - ⚡ Dato curioso adicto a la programacion
+- 🤜 Administro y configuro servidores, tengo un poco de experiencia en programacion con c# html css js php mysql y python
 
 <!---
 CyberTics57/CyberTics57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
